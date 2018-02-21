@@ -5,6 +5,6 @@ public class HelloWorld {
 		
 		System.out.println("Hello world");
 		System.out.println ("I am adding code to my project");
-		
+		System.out.println ("Adding code from GitHub");	
 	}
 }
